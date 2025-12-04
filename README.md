@@ -31,15 +31,15 @@ Due to file size limitations, the dataset is hosted externally on Google Drive.
 https://drive.google.com/drive/folders/12rHH7h5AHNJru9kvpvem3GZs7vLdNxs9?usp=sharing
 
 After downloading, place the files as follows:
+
+```
 project_root/
- ├── CNN_Detection_Classification.py   ← ★ 코드 파일
  ├── train/
- │    ├── train_dataset_with_non_digit.npz
  │    ├── train.zip
+ │    ├── train_dataset_with_non_digit.npz
  ├── test/
- │    ├── test_dataset_with_non_digit.npz
  │    ├── test.zip
- ├── house_numbers/
- ├── README.md
- └── ...
+ │    ├── test_dataset_with_non_digit.npz
+ └── house_numbers/
+```
 
